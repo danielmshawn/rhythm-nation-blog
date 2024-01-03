@@ -3,7 +3,7 @@ author: pam-beesely
 categories: ["insights"]
 date: 08/10/2021
 featured: false
-image: ./images/speaker.jpg
+mage: /images/speaker.jpg
 title: The importance of audio quality
 ---
 
